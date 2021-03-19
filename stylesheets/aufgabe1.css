@@ -2,6 +2,13 @@
   background-color: white;
 }
 
+.nav-link {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  margin-top: 2.5vh;
+  text-decoration: none;
+}
+
 .upper-container {
   display: flex;
   background-color: white;

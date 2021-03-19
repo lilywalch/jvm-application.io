@@ -10,10 +10,12 @@
 .navbar-links-list {
   display: flex;
   list-style: none;
+  margin-top: 2.5vh;
 }
 .nav-link {
   font-family: ‘Roboto Condensed’, sans-serif;
   color: black;
+  margin-top: 2.5vh;
 }
 
 .nav-link:hover {

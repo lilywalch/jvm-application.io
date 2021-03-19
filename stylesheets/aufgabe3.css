@@ -56,6 +56,13 @@
   margin-left: 15%;
 }
 
+.nav-link {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  margin-top: 2.5vh;
+  text-decoration: none;
+}
+
 .plana-header {
   padding-top: 8vh;
   font-family: ‘Roboto Condensed’, sans-serif;
